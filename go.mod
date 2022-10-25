@@ -1,3 +1,3 @@
-module yycelab.com/codeplatform/gogen
+module goose-play/gogen
 
 go 1.18

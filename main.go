@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"yycelab.com/gocli"
+	"github.com/goose-play/gocli"
 )
 
 func main() {
